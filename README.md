@@ -16,7 +16,11 @@
 - [https://www.altinity.com/blog/2020/5/5/monitoring-clickhouse-kubernetes-prometheus-grafana](https://www.altinity.com/blog/2020/5/5/monitoring-clickhouse-kubernetes-prometheus-grafana)
 - [https://www.scalyr.com/blog/prometheus-tutorial-detailed-guide-to-getting-started/](https://www.scalyr.com/blog/prometheus-tutorial-detailed-guide-to-getting-started/)
 - 
+
+
+## zabbix
+- [https://sylvainleroy.com/2019/08/25/zabbix-vs-prometheus-in-2019-what-is-the-best-monitoring-tool/](https://sylvainleroy.com/2019/08/25/zabbix-vs-prometheus-in-2019-what-is-the-best-monitoring-tool/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzODM1MjM2OSwtMTk4MzY3MzY2OSwxMT
+eyJoaXN0b3J5IjpbMTc3OTEwOTE2NywtMTk4MzY3MzY2OSwxMT
 EyNDExMTE1LC0yMTE3ODQyMDAzXX0=
 -->
