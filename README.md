@@ -17,10 +17,9 @@
 - [https://www.scalyr.com/blog/prometheus-tutorial-detailed-guide-to-getting-started/](https://www.scalyr.com/blog/prometheus-tutorial-detailed-guide-to-getting-started/)
 - 
 
-
 ## zabbix
 - [https://sylvainleroy.com/2019/08/25/zabbix-vs-prometheus-in-2019-what-is-the-best-monitoring-tool/](https://sylvainleroy.com/2019/08/25/zabbix-vs-prometheus-in-2019-what-is-the-best-monitoring-tool/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3OTEwOTE2NywtMTk4MzY3MzY2OSwxMT
-EyNDExMTE1LC0yMTE3ODQyMDAzXX0=
+eyJoaXN0b3J5IjpbMzU5NzA1NDM3LC0xOTgzNjczNjY5LDExMT
+I0MTExMTUsLTIxMTc4NDIwMDNdfQ==
 -->
