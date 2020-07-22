@@ -12,8 +12,9 @@
 - 
 ## prometheus
 
-- [https://ronekins.com/2020/05/04/how-to-run-oracle-12c-on-a-kubernetes-cluster-with-persistent-storage/](https://ronekins.com/2020/05/04/how-to-run-oracle-12c-on-a-kubernetes-cluster-with-persistent-storage/)
+-
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExMjQxMTExNSwtMjExNzg0MjAwM119
+eyJoaXN0b3J5IjpbLTc5ODgxMTEwMCwxMTEyNDExMTE1LC0yMT
+E3ODQyMDAzXX0=
 -->
