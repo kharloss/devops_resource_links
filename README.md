@@ -12,9 +12,10 @@
 - 
 ## prometheus
 
--
+- [https://medium.com/the-metricfire-blog/monitoring-kubernetes-tutorial-using-grafana-and-prometheus-f106091534fb](https://medium.com/the-metricfire-blog/monitoring-kubernetes-tutorial-using-grafana-and-prometheus-f106091534fb)
 - 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5ODgxMTEwMCwxMTEyNDExMTE1LC0yMT
-E3ODQyMDAzXX0=
+eyJoaXN0b3J5IjpbLTE5ODM2NzM2NjksMTExMjQxMTExNSwtMj
+ExNzg0MjAwM119
 -->
