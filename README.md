@@ -13,9 +13,9 @@
 ## prometheus
 
 - [https://medium.com/the-metricfire-blog/monitoring-kubernetes-tutorial-using-grafana-and-prometheus-f106091534fb](https://medium.com/the-metricfire-blog/monitoring-kubernetes-tutorial-using-grafana-and-prometheus-f106091534fb)
-- 
+- [https://www.altinity.com/blog/2020/5/5/monitoring-clickhouse-kubernetes-prometheus-grafana](https://www.altinity.com/blog/2020/5/5/monitoring-clickhouse-kubernetes-prometheus-grafana)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODM2NzM2NjksMTExMjQxMTExNSwtMj
-ExNzg0MjAwM119
+eyJoaXN0b3J5IjpbMTY1ODg4Mjk1MiwtMTk4MzY3MzY2OSwxMT
+EyNDExMTE1LC0yMTE3ODQyMDAzXX0=
 -->
